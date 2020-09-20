@@ -1,0 +1,27 @@
+body{
+	background: #999;
+	font-family: arial;
+}
+
+header h4{
+	margin:0;
+}
+
+nav ul{
+ margin:0;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+.col {
+	background: white;
+	float:left;
+	margins:.1%;
+	width:33%;
+}
+
+table {
+	margin:0;
+}
